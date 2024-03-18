@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    apiHost: 'http://localhost:8080'
+    apiHost: 'https://day11-back.onrender.com'
   };
